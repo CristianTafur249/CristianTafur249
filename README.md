@@ -2,7 +2,7 @@
 ## I'm just a nerd that loves learning new things about tech!!
  
 - 🤯 I’m studying system's engineering at UIS
-- 🏆 2022 Goals: Get a job as a Web developer!
+- 🏆 2023 Goals: Get a job as a Web developer!
 
 <hr>
 
