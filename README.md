@@ -17,9 +17,10 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianTafur249&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianTafur249&theme=radical&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=DALO-eng&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=CristianTafur249&theme=radical&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianTafur249&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <hr>
